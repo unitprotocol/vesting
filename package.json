@@ -1,0 +1,11 @@
+{
+  "name": "vesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/unitprotocol/vesting",
+  "author": "34x4p08 <34x4p08@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.10"
+  }
+}
